@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Practicing problem-solving since 2015 when I first learnt to code using C <br>📚 I'm currently learning Azure Cloud AI services, advanced deep learning techniques, and data engineering<br>🎯 Goals: Building impactful AI solutions and collaborating on open-source data science and NLP projects<br>🎲 Fun fact: I love playing chess, reading books, organizing tech workshops, and meeting new people through networking events</p>
+<p align="left">✨ Practicing problem-solving since 2015 when I first learnt to code using C <br>📚 I'm currently learning Azure Cloud AI services, advanced deep learning techniques, and data engineering<br>🎯 Goals: Building impactful AI solutions and collaborating on open-source data science and NLP projects<br>🎲 Fun fact: I love playing chess, reading books, organizing/speaking at tech workshops, and meeting new people through networking events</p>
 
 ###
 
