@@ -4,7 +4,7 @@
   <img width="1610" height="408" alt="image" src="https://github.com/user-attachments/assets/95c825b9-8033-4bf0-bcf2-1a99789c1e5f" />
 
 </div>
-<h1 align="left">Hey there👋</h1>
+<h1 align="left">👋</h1>
 
 ###
 
