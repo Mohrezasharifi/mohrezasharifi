@@ -75,6 +75,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Data%20Processing-orange)
+![Databricks](https://img.shields.io/badge/Databricks-Platform-purple)
+![Big Data](https://img.shields.io/badge/Big%20Data-Analytics-green)
 </div>
 
 ###
